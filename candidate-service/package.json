@@ -1,0 +1,8 @@
+{
+  "name": "coding-round-evaluator",
+  "dependencies": {
+    "aws-sdk": "^2.1151.0",
+    "bluebird": "^3.7.2",
+    "uuid": "^8.3.2"
+  }
+}
